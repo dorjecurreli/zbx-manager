@@ -1,0 +1,16 @@
+{
+    "name": "zabbix/test",
+    "description": "DevOps automation for zabbix",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "symfony/var-dumper": "^4.3"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Dorje Curreli",
+            "email": "dor.curreli@gmail.com"
+        }
+    ]
+}
